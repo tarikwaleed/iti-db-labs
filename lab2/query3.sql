@@ -1,0 +1,1 @@
+select Pname,Plocation,Dnum from project;

@@ -1,0 +1,1 @@
+select Fname,Lname,Salary,DNO from employee;
