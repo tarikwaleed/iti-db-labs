@@ -1,0 +1,1 @@
+select dependent.Dependent_name,dependent.Sex from dependent where dependent.Sex='F' 

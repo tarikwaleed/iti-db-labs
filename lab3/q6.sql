@@ -1,0 +1,1 @@
+select * from project where Pname like 'a%'

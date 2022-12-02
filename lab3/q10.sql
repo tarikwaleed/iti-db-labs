@@ -1,0 +1,1 @@
+select Pname,count(hours) from project inner join works_for on Pnumber=Pno

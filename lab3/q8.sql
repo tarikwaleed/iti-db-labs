@@ -1,0 +1,1 @@
+select employee.Fname,employee.DNO,employee.SSN,works_for.Pno,works_for.hours from employee inner join works_for on hours>10 and Pno=200 where DNO=10  

@@ -1,0 +1,1 @@
+select concat(Fname,' ',Lname) as 'Full Name', SuperSSN as SuperVisor from employee where SuperSSN=223344

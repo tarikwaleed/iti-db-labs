@@ -1,0 +1,1 @@
+select * from employee where DNO=30 and Salary between 1000 and 2000
